@@ -12,7 +12,7 @@ This project explores a real-world food delivery dataset to understand the facto
 ## Dataset
 The original dataset contains 45,593 records and 20 fields.
 
-**Dataset source:** [Insert the original dataset URL here.]
+**Dataset source:** [https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?select=train.csv]
 
 ## Technologies Used
 - Python
